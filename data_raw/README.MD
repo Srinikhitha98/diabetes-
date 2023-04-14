@@ -2,11 +2,7 @@ Sri Nikhitha Boddapati
 
 16322365
 
-From the data :
+The data file  contains data of 768 patients.
 
-1.Heights are given in inches
-
-2.Weights are given in pounds 
-
-3.Age, Grip Strength,Frailty are given
+In this data there are 8 attributes (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, and Age) 
 
